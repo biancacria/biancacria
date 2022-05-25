@@ -2,7 +2,7 @@
 - 📫 Meu Email é bianca.calixto.soares@escola.pr.gov.br 🌃
 - 🕶 Estou interessada em aprender progamação 🎭
 - 🐢 estou aprendendo a programar no JavaScript e no Scratch 🍐
-- por favor não interage plis 🥺🥺🥺🥺🥺🥺🥺
+- saia
 
 <!---
 biancacria/biancacria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
